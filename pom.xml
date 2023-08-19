@@ -96,7 +96,7 @@
 	<distributionManagement>
 	
 	    <repository>
-	      <id>admin</id>
+	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://13.235.128.102:8081/repository/Maven_new/</url>
 	    </repository>
