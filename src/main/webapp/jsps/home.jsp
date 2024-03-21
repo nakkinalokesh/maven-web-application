@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Hello thid is lokesh,started learning devops cource </h1>
+<h1 align="center">Hello this is lokesh,Deploying web application using Apache Tomact </h1>
 <h1 align="center"> </h1>
 <hr>
 <br>
