@@ -11,7 +11,7 @@ stages{
 
   stage('CheckOutCode'){
     steps{
-    git branch: 'master', url: 'https://github.com/nakkinalokesh/maven-web-application.git'
+    git 'https://github.com/nakkinalokesh/maven-web-application.git'
 	
 }
 }
