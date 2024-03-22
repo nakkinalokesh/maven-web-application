@@ -1,3 +1,4 @@
+
 @Library("sharedlibrary") _
 pipeline{
 
@@ -7,21 +8,17 @@ tools{
 // maven 'maven3.9.6'
 maven()
 }
-
-
 stages{
-
-  stage('CheckOutCode'){
+    stage('CheckOutCode'){
     steps{
     git url: 'https://github.com/nakkinalokesh/maven-web-application.git'
-    
-	
+    	
 }
 }
-stage('Build'){
-  steps{
- // sh  "mvn clean package"
-  maven()
+    stage('Build'){
+    steps{
+     // sh  "mvn clean package"
+     maven()
   }
   }
 
