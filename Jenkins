@@ -14,10 +14,11 @@ stages{
     	
 }
 }
-    stage('Build'){
-    steps{
+    stage('Greetings'){
+    //steps{
      // sh  "mvn clean package"
-     maven()
+     //maven()
+     lokesh(lokesh)
   }
   }
 
