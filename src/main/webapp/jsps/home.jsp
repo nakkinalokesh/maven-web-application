@@ -5,13 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/ganapathy.webp" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies</h1>
-<h1 align="center">Phone Number: +91 9980923216</h1>
-<h1 align="center">Lokesh</h1>
+<h1 align="center">Welcome to Lokesh Homepage</h1>
+<h1 align="center">Phone Number: +91 9014366444</h1>
+<h1 align="center">Lokesh working as senior DevOps engineer</h1>
 
 <h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
 
@@ -35,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/ganapathy.webp" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
 		Mithun Technologies, 
